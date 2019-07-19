@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "uwufier",
+  "version": "1.0.0",
+
+  "name": "Uwufier",
+  "description": "Uwufies minecwaft!",
+  "authors": [
+    "NuclearFarts"
+  ],
+  "contact": {
+    "homepage": "https://github.com/nuclearfarts/uwufier",
+    "sources": "https://github.com/nuclearfarts/uwufier"
+  },
+
+  "environment": "client",
+  "mixins": [
+    "uwufier.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0"
+  }
+}

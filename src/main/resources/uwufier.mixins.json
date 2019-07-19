@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.nuclearfarts.uwufier.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+  	"ClientUwuMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
